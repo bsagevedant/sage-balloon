@@ -1,4 +1,5 @@
 # Balloon Shooting Game
+<img width="847" alt="Screenshot 2025-03-16 at 7 01 32 PM" src="https://github.com/user-attachments/assets/9508655b-a649-4a07-8655-9ed6290e00c1" />
 
 An engaging endless balloon shooting game with multiple mechanics, scoring systems, and performance optimizations.
 
